@@ -17,7 +17,7 @@ This app is developed using the following technologies:
 Clone the repository.
 
 ```sh
-$ https://github.com/tejaskarelia17/simpleRecipeApp.git
+$ git clone https://github.com/tejaskarelia17/simpleRecipeApp.git
 $ cd simpleRecipeApp
 ```
 Install the dependencies and devDependencies.
